@@ -1,93 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><filteredData><result expression="/root/prediccion/dia[position() &lt;= 3]"><dia fecha="2025-02-20">
-      <prob_precipitacion periodo="00-24"/>
-      <prob_precipitacion periodo="00-12"/>
-      <prob_precipitacion periodo="12-24">0</prob_precipitacion>
-      <prob_precipitacion periodo="00-06"/>
-      <prob_precipitacion periodo="06-12">0</prob_precipitacion>
-      <prob_precipitacion periodo="12-18">0</prob_precipitacion>
-      <prob_precipitacion periodo="18-24">0</prob_precipitacion>
-      <cota_nieve_prov periodo="00-24"/>
-      <cota_nieve_prov periodo="00-12"/>
-      <cota_nieve_prov periodo="12-24"/>
-      <cota_nieve_prov periodo="00-06"/>
-      <cota_nieve_prov periodo="06-12"/>
-      <cota_nieve_prov periodo="12-18"/>
-      <cota_nieve_prov periodo="18-24"/>
-      <estado_cielo descripcion="" periodo="00-24"/>
-      <estado_cielo descripcion="" periodo="00-12"/>
-      <estado_cielo descripcion="Nubes altas" periodo="12-24">17</estado_cielo>
-      <estado_cielo descripcion="" periodo="00-06"/>
-      <estado_cielo descripcion="Nubes altas" periodo="06-12">17</estado_cielo>
-      <estado_cielo descripcion="Nubes altas" periodo="12-18">17</estado_cielo>
-      <estado_cielo descripcion="Nubes altas" periodo="18-24">17n</estado_cielo>
-      <viento periodo="00-24">
-        <direccion/>
-        <velocidad/>
-      </viento>
-      <viento periodo="00-12">
-        <direccion/>
-        <velocidad/>
-      </viento>
-      <viento periodo="12-24">
-        <direccion>SO</direccion>
-        <velocidad>10</velocidad>
-      </viento>
-      <viento periodo="00-06">
-        <direccion>SE</direccion>
-        <velocidad>10</velocidad>
-      </viento>
-      <viento periodo="06-12">
-        <direccion>SO</direccion>
-        <velocidad>10</velocidad>
-      </viento>
-      <viento periodo="12-18">
-        <direccion>C</direccion>
-        <velocidad>0</velocidad>
-      </viento>
-      <viento periodo="18-24">
-        <direccion>S</direccion>
-        <velocidad>10</velocidad>
-      </viento>
-      <racha_max periodo="00-24"/>
-      <racha_max periodo="00-12"/>
-      <racha_max periodo="12-24"/>
-      <racha_max periodo="00-06"/>
-      <racha_max periodo="06-12"/>
-      <racha_max periodo="12-18"/>
-      <racha_max periodo="18-24"/>
-      <temperatura>
-        <maxima>21</maxima>
-        <minima>9</minima>
-        <dato hora="06">10</dato>
-        <dato hora="12">19</dato>
-        <dato hora="18">17</dato>
-        <dato hora="24">13</dato>
-      </temperatura>
-      <sens_termica>
-        <maxima>21</maxima>
-        <minima>9</minima>
-        <dato hora="06">10</dato>
-        <dato hora="12">19</dato>
-        <dato hora="18">17</dato>
-        <dato hora="24">13</dato>
-      </sens_termica>
-      <humedad_relativa>
-        <maxima>80</maxima>
-        <minima>55</minima>
-        <dato hora="06">80</dato>
-        <dato hora="12">55</dato>
-        <dato hora="18">65</dato>
-        <dato hora="24">70</dato>
-      </humedad_relativa>
-      <uv_max>2</uv_max>
-    </dia><dia fecha="2025-02-21">
-      <prob_precipitacion periodo="00-24">95</prob_precipitacion>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><filteredData><result expression="/root/prediccion/dia[position() &lt;= 3]"><dia fecha="2025-02-21">
+      <prob_precipitacion periodo="00-24">100</prob_precipitacion>
       <prob_precipitacion periodo="00-12">0</prob_precipitacion>
-      <prob_precipitacion periodo="12-24">95</prob_precipitacion>
+      <prob_precipitacion periodo="12-24">100</prob_precipitacion>
       <prob_precipitacion periodo="00-06">0</prob_precipitacion>
       <prob_precipitacion periodo="06-12">0</prob_precipitacion>
-      <prob_precipitacion periodo="12-18">5</prob_precipitacion>
-      <prob_precipitacion periodo="18-24">95</prob_precipitacion>
+      <prob_precipitacion periodo="12-18">10</prob_precipitacion>
+      <prob_precipitacion periodo="18-24">100</prob_precipitacion>
       <cota_nieve_prov periodo="00-24"/>
       <cota_nieve_prov periodo="00-12"/>
       <cota_nieve_prov periodo="12-24"/>
@@ -100,7 +18,7 @@
       <estado_cielo descripcion="Intervalos nubosos con tormenta" periodo="12-24">51</estado_cielo>
       <estado_cielo descripcion="Nubes altas" periodo="00-06">17n</estado_cielo>
       <estado_cielo descripcion="Nubes altas" periodo="06-12">17</estado_cielo>
-      <estado_cielo descripcion="Nubes altas" periodo="12-18">17</estado_cielo>
+      <estado_cielo descripcion="Intervalos nubosos" periodo="12-18">13</estado_cielo>
       <estado_cielo descripcion="Muy nuboso con tormenta" periodo="18-24">53n</estado_cielo>
       <viento periodo="00-24">
         <direccion>S</direccion>
@@ -112,11 +30,11 @@
       </viento>
       <viento periodo="12-24">
         <direccion>S</direccion>
-        <velocidad>25</velocidad>
+        <velocidad>20</velocidad>
       </viento>
       <viento periodo="00-06">
         <direccion>S</direccion>
-        <velocidad>15</velocidad>
+        <velocidad>10</velocidad>
       </viento>
       <viento periodo="06-12">
         <direccion>S</direccion>
@@ -124,7 +42,7 @@
       </viento>
       <viento periodo="12-18">
         <direccion>S</direccion>
-        <velocidad>25</velocidad>
+        <velocidad>20</velocidad>
       </viento>
       <viento periodo="18-24">
         <direccion>O</direccion>
@@ -138,18 +56,18 @@
       <racha_max periodo="12-18">40</racha_max>
       <racha_max periodo="18-24"/>
       <temperatura>
-        <maxima>17</maxima>
+        <maxima>16</maxima>
         <minima>12</minima>
-        <dato hora="06">12</dato>
-        <dato hora="12">14</dato>
+        <dato hora="06">13</dato>
+        <dato hora="12">15</dato>
         <dato hora="18">16</dato>
         <dato hora="24">13</dato>
       </temperatura>
       <sens_termica>
-        <maxima>17</maxima>
+        <maxima>16</maxima>
         <minima>12</minima>
-        <dato hora="06">12</dato>
-        <dato hora="12">14</dato>
+        <dato hora="06">13</dato>
+        <dato hora="12">15</dato>
         <dato hora="18">16</dato>
         <dato hora="24">13</dato>
       </sens_termica>
@@ -164,14 +82,26 @@
       <uv_max>2</uv_max>
     </dia><dia fecha="2025-02-22">
       <prob_precipitacion periodo="00-24">100</prob_precipitacion>
-      <prob_precipitacion periodo="00-12">90</prob_precipitacion>
+      <prob_precipitacion periodo="00-12">95</prob_precipitacion>
       <prob_precipitacion periodo="12-24">90</prob_precipitacion>
+      <prob_precipitacion periodo="00-06">95</prob_precipitacion>
+      <prob_precipitacion periodo="06-12">50</prob_precipitacion>
+      <prob_precipitacion periodo="12-18">85</prob_precipitacion>
+      <prob_precipitacion periodo="18-24">25</prob_precipitacion>
       <cota_nieve_prov periodo="00-24">1400</cota_nieve_prov>
       <cota_nieve_prov periodo="00-12">1400</cota_nieve_prov>
       <cota_nieve_prov periodo="12-24">1400</cota_nieve_prov>
-      <estado_cielo descripcion="Nuboso con lluvia" periodo="00-24">24</estado_cielo>
-      <estado_cielo descripcion="Muy nuboso con tormenta" periodo="00-12">53</estado_cielo>
+      <cota_nieve_prov periodo="00-06">1400</cota_nieve_prov>
+      <cota_nieve_prov periodo="06-12">1400</cota_nieve_prov>
+      <cota_nieve_prov periodo="12-18">1500</cota_nieve_prov>
+      <cota_nieve_prov periodo="18-24">1400</cota_nieve_prov>
+      <estado_cielo descripcion="Intervalos nubosos con lluvia" periodo="00-24">23</estado_cielo>
+      <estado_cielo descripcion="Intervalos nubosos con tormenta" periodo="00-12">51</estado_cielo>
       <estado_cielo descripcion="Intervalos nubosos con tormenta" periodo="12-24">51</estado_cielo>
+      <estado_cielo descripcion="Muy nuboso con tormenta" periodo="00-06">53n</estado_cielo>
+      <estado_cielo descripcion="Intervalos nubosos" periodo="06-12">13</estado_cielo>
+      <estado_cielo descripcion="Intervalos nubosos con tormenta" periodo="12-18">51</estado_cielo>
+      <estado_cielo descripcion="Nuboso" periodo="18-24">14n</estado_cielo>
       <viento periodo="00-24">
         <direccion>C</direccion>
         <velocidad>0</velocidad>
@@ -184,20 +114,90 @@
         <direccion>C</direccion>
         <velocidad>0</velocidad>
       </viento>
+      <viento periodo="00-06">
+        <direccion>C</direccion>
+        <velocidad>0</velocidad>
+      </viento>
+      <viento periodo="06-12">
+        <direccion>C</direccion>
+        <velocidad>0</velocidad>
+      </viento>
+      <viento periodo="12-18">
+        <direccion>C</direccion>
+        <velocidad>0</velocidad>
+      </viento>
+      <viento periodo="18-24">
+        <direccion>C</direccion>
+        <velocidad>0</velocidad>
+      </viento>
       <racha_max periodo="00-24"/>
       <racha_max periodo="00-12"/>
       <racha_max periodo="12-24"/>
+      <racha_max periodo="00-06"/>
+      <racha_max periodo="06-12"/>
+      <racha_max periodo="12-18"/>
+      <racha_max periodo="18-24"/>
       <temperatura>
         <maxima>15</maxima>
         <minima>7</minima>
+        <dato hora="06">9</dato>
+        <dato hora="12">14</dato>
+        <dato hora="18">11</dato>
+        <dato hora="24">8</dato>
       </temperatura>
       <sens_termica>
         <maxima>15</maxima>
         <minima>7</minima>
+        <dato hora="06">9</dato>
+        <dato hora="12">14</dato>
+        <dato hora="18">11</dato>
+        <dato hora="24">8</dato>
       </sens_termica>
       <humedad_relativa>
-        <maxima>90</maxima>
-        <minima>50</minima>
+        <maxima>85</maxima>
+        <minima>60</minima>
+        <dato hora="06">70</dato>
+        <dato hora="12">60</dato>
+        <dato hora="18">80</dato>
+        <dato hora="24">75</dato>
       </humedad_relativa>
       <uv_max>2</uv_max>
-    </dia></result><result expression="avg(/root/prediccion/dia[position() &lt;= 3]/prob_precipitacion[normalize-space() != '']/number(.))"/><result expression="avg(/root/prediccion/dia[position() &lt;= 3]/cota_nieve_prov[normalize-space() != '']/number(.))"/><result expression="avg(/root/prediccion/dia[position() &lt;= 3]/estado_cielo[normalize-space() != '']/number(.))"/><result expression="avg(/root/prediccion/dia[position() &lt;= 3]/viento/velocidad[normalize-space() != '']/number(.))"/><result expression="/root/prediccion/dia[position() &lt;= 3]/viento/direccion[normalize-space() != '']"><direccion>SO</direccion><direccion>SE</direccion><direccion>SO</direccion><direccion>C</direccion><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>O</direccion><direccion>C</direccion><direccion>O</direccion><direccion>C</direccion></result><result expression="max(/root/prediccion/dia[position() &lt;= 3]/temperatura/maxima[normalize-space() != '']/number(.))"/><result expression="min(/root/prediccion/dia[position() &lt;= 3]/temperatura/minima[normalize-space() != '']/number(.))"/></filteredData>
+    </dia><dia fecha="2025-02-23">
+      <prob_precipitacion periodo="00-24">0</prob_precipitacion>
+      <prob_precipitacion periodo="00-12">0</prob_precipitacion>
+      <prob_precipitacion periodo="12-24">0</prob_precipitacion>
+      <cota_nieve_prov periodo="00-24"/>
+      <cota_nieve_prov periodo="00-12"/>
+      <cota_nieve_prov periodo="12-24"/>
+      <estado_cielo descripcion="Poco nuboso" periodo="00-24">12</estado_cielo>
+      <estado_cielo descripcion="Poco nuboso" periodo="00-12">12</estado_cielo>
+      <estado_cielo descripcion="Poco nuboso" periodo="12-24">12</estado_cielo>
+      <viento periodo="00-24">
+        <direccion>C</direccion>
+        <velocidad>0</velocidad>
+      </viento>
+      <viento periodo="00-12">
+        <direccion>C</direccion>
+        <velocidad>0</velocidad>
+      </viento>
+      <viento periodo="12-24">
+        <direccion>C</direccion>
+        <velocidad>0</velocidad>
+      </viento>
+      <racha_max periodo="00-24"/>
+      <racha_max periodo="00-12"/>
+      <racha_max periodo="12-24"/>
+      <temperatura>
+        <maxima>18</maxima>
+        <minima>7</minima>
+      </temperatura>
+      <sens_termica>
+        <maxima>18</maxima>
+        <minima>7</minima>
+      </sens_termica>
+      <humedad_relativa>
+        <maxima>85</maxima>
+        <minima>35</minima>
+      </humedad_relativa>
+      <uv_max>2</uv_max>
+    </dia></result><result expression="avg(/root/prediccion/dia[position() &lt;= 3]/prob_precipitacion[normalize-space() != '']/number(.))"/><result expression="avg(/root/prediccion/dia[position() &lt;= 3]/cota_nieve_prov[normalize-space() != '']/number(.))"/><result expression="avg(/root/prediccion/dia[position() &lt;= 3]/estado_cielo[normalize-space() != '']/number(.))"/><result expression="avg(/root/prediccion/dia[position() &lt;= 3]/viento/velocidad[normalize-space() != '']/number(.))"/><result expression="/root/prediccion/dia[position() &lt;= 3]/viento/direccion[normalize-space() != '']"><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>S</direccion><direccion>O</direccion><direccion>C</direccion><direccion>O</direccion><direccion>C</direccion><direccion>C</direccion><direccion>C</direccion><direccion>C</direccion><direccion>C</direccion><direccion>C</direccion><direccion>C</direccion><direccion>C</direccion></result><result expression="max(/root/prediccion/dia[position() &lt;= 3]/temperatura/maxima[normalize-space() != '']/number(.))"/><result expression="min(/root/prediccion/dia[position() &lt;= 3]/temperatura/minima[normalize-space() != '']/number(.))"/></filteredData>
