@@ -1,55 +1,65 @@
-Fecha: 2025-02-25
-Temperatura Máxima: 16
-Temperatura Mínima: 7
-Probabilidades de Precipitación:
-Hora: 12-24, Probabilidad: 100
-Hora: 06-12, Probabilidad: 100
-Hora: 12-18, Probabilidad: 100
-Hora: 18-24, Probabilidad: 100
-
-Fecha: 2025-02-26
-Temperatura Máxima: 15
-Temperatura Mínima: 5
-Probabilidades de Precipitación:
-Hora: 00-24, Probabilidad: 80
-Hora: 00-12, Probabilidad: 80
-Hora: 12-24, Probabilidad: 0
-Hora: 00-06, Probabilidad: 70
-Hora: 06-12, Probabilidad: 15
-Hora: 12-18, Probabilidad: 0
-Hora: 18-24, Probabilidad: 0
-
-Fecha: 2025-02-27
-Temperatura Máxima: 16
-Temperatura Mínima: 4
-Probabilidades de Precipitación:
-Hora: 00-24, Probabilidad: 25
-Hora: 00-12, Probabilidad: 0
-Hora: 12-24, Probabilidad: 20
-
-Fecha: 2025-02-28
-Temperatura Máxima: 14
-Temperatura Mínima: 5
-Probabilidades de Precipitación:
-Hora: 00-24, Probabilidad: 30
-Hora: 00-12, Probabilidad: 10
-Hora: 12-24, Probabilidad: 25
-
-Fecha: 2025-03-01
-Temperatura Máxima: 12
-Temperatura Mínima: 5
-Probabilidades de Precipitación:
-Hora: No especificado, Probabilidad: 45
-
-Fecha: 2025-03-02
-Temperatura Máxima: 12
-Temperatura Mínima: 4
-Probabilidades de Precipitación:
-Hora: No especificado, Probabilidad: 35
-
-Fecha: 2025-03-03
-Temperatura Máxima: 16
-Temperatura Mínima: 2
-Probabilidades de Precipitación:
-Hora: No especificado, Probabilidad: 25
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<prediccion>
+    <dia fecha="2025-02-25">
+        <temperatura_maxima>16</temperatura_maxima>
+        <temperatura_minima>7</temperatura_minima>
+        <precipitacion>
+            <probabilidad hora="12-24">100</probabilidad>
+            <probabilidad hora="06-12">100</probabilidad>
+            <probabilidad hora="12-18">100</probabilidad>
+            <probabilidad hora="18-24">100</probabilidad>
+        </precipitacion>
+    </dia>
+    <dia fecha="2025-02-26">
+        <temperatura_maxima>15</temperatura_maxima>
+        <temperatura_minima>5</temperatura_minima>
+        <precipitacion>
+            <probabilidad hora="00-24">80</probabilidad>
+            <probabilidad hora="00-12">80</probabilidad>
+            <probabilidad hora="12-24">0</probabilidad>
+            <probabilidad hora="00-06">70</probabilidad>
+            <probabilidad hora="06-12">15</probabilidad>
+            <probabilidad hora="12-18">0</probabilidad>
+            <probabilidad hora="18-24">0</probabilidad>
+        </precipitacion>
+    </dia>
+    <dia fecha="2025-02-27">
+        <temperatura_maxima>16</temperatura_maxima>
+        <temperatura_minima>4</temperatura_minima>
+        <precipitacion>
+            <probabilidad hora="00-24">25</probabilidad>
+            <probabilidad hora="00-12">0</probabilidad>
+            <probabilidad hora="12-24">20</probabilidad>
+        </precipitacion>
+    </dia>
+    <dia fecha="2025-02-28">
+        <temperatura_maxima>14</temperatura_maxima>
+        <temperatura_minima>5</temperatura_minima>
+        <precipitacion>
+            <probabilidad hora="00-24">30</probabilidad>
+            <probabilidad hora="00-12">10</probabilidad>
+            <probabilidad hora="12-24">25</probabilidad>
+        </precipitacion>
+    </dia>
+    <dia fecha="2025-03-01">
+        <temperatura_maxima>12</temperatura_maxima>
+        <temperatura_minima>5</temperatura_minima>
+        <precipitacion>
+            <probabilidad hora="No especificado">45</probabilidad>
+        </precipitacion>
+    </dia>
+    <dia fecha="2025-03-02">
+        <temperatura_maxima>12</temperatura_maxima>
+        <temperatura_minima>4</temperatura_minima>
+        <precipitacion>
+            <probabilidad hora="No especificado">35</probabilidad>
+        </precipitacion>
+    </dia>
+    <dia fecha="2025-03-03">
+        <temperatura_maxima>16</temperatura_maxima>
+        <temperatura_minima>2</temperatura_minima>
+        <precipitacion>
+            <probabilidad hora="No especificado">25</probabilidad>
+        </precipitacion>
+    </dia>
+</prediccion>
