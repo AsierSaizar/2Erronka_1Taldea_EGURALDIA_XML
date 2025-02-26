@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <prediccion>
-    <dia fecha="2025-02-25">
-        <temperatura_maxima>16</temperatura_maxima>
-        <temperatura_minima>7</temperatura_minima>
-        <precipitacion>
-            <probabilidad hora="12-24">100</probabilidad>
-            <probabilidad hora="06-12">100</probabilidad>
-            <probabilidad hora="12-18">100</probabilidad>
-            <probabilidad hora="18-24">100</probabilidad>
-        </precipitacion>
-    </dia>
     <dia fecha="2025-02-26">
-        <temperatura_maxima>15</temperatura_maxima>
+        <temperatura_maxima>14</temperatura_maxima>
         <temperatura_minima>5</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="00-24">80</probabilidad>
-            <probabilidad hora="00-12">80</probabilidad>
             <probabilidad hora="12-24">0</probabilidad>
-            <probabilidad hora="00-06">70</probabilidad>
-            <probabilidad hora="06-12">15</probabilidad>
+            <probabilidad hora="06-12">10</probabilidad>
             <probabilidad hora="12-18">0</probabilidad>
             <probabilidad hora="18-24">0</probabilidad>
         </precipitacion>
@@ -27,39 +14,52 @@
         <temperatura_maxima>16</temperatura_maxima>
         <temperatura_minima>4</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="00-24">25</probabilidad>
+            <probabilidad hora="00-24">30</probabilidad>
             <probabilidad hora="00-12">0</probabilidad>
-            <probabilidad hora="12-24">20</probabilidad>
+            <probabilidad hora="12-24">30</probabilidad>
+            <probabilidad hora="00-06">0</probabilidad>
+            <probabilidad hora="06-12">0</probabilidad>
+            <probabilidad hora="12-18">25</probabilidad>
+            <probabilidad hora="18-24">0</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-02-28">
-        <temperatura_maxima>14</temperatura_maxima>
-        <temperatura_minima>5</temperatura_minima>
+        <temperatura_maxima>12</temperatura_maxima>
+        <temperatura_minima>3</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="00-24">30</probabilidad>
-            <probabilidad hora="00-12">10</probabilidad>
+            <probabilidad hora="00-24">50</probabilidad>
+            <probabilidad hora="00-12">20</probabilidad>
             <probabilidad hora="12-24">25</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-01">
-        <temperatura_maxima>12</temperatura_maxima>
-        <temperatura_minima>5</temperatura_minima>
+        <temperatura_maxima>9</temperatura_maxima>
+        <temperatura_minima>1</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="No especificado">45</probabilidad>
+            <probabilidad hora="00-24">35</probabilidad>
+            <probabilidad hora="00-12">15</probabilidad>
+            <probabilidad hora="12-24">20</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-02">
-        <temperatura_maxima>12</temperatura_maxima>
-        <temperatura_minima>4</temperatura_minima>
+        <temperatura_maxima>9</temperatura_maxima>
+        <temperatura_minima>1</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="No especificado">35</probabilidad>
+            <probabilidad hora="No especificado">30</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-03">
-        <temperatura_maxima>16</temperatura_maxima>
-        <temperatura_minima>2</temperatura_minima>
+        <temperatura_maxima>11</temperatura_maxima>
+        <temperatura_minima>1</temperatura_minima>
         <precipitacion>
             <probabilidad hora="No especificado">25</probabilidad>
+        </precipitacion>
+    </dia>
+    <dia fecha="2025-03-04">
+        <temperatura_maxima>15</temperatura_maxima>
+        <temperatura_minima>3</temperatura_minima>
+        <precipitacion>
+            <probabilidad hora="No especificado">20</probabilidad>
         </precipitacion>
     </dia>
 </prediccion>
