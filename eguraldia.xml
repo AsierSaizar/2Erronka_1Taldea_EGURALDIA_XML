@@ -4,63 +4,63 @@
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>10</temperatura_minima>
         <estado_cielo>
-            <valor_media>13</valor_media>
-            <descripcion_media>Poco nuboso</descripcion_media>
+            <balio_batezbestekoa>13</balio_batezbestekoa>
+            <deskribapena_batezbestekoa>Poco nuboso</deskribapena_batezbestekoa>
         </estado_cielo>
-        <descripcion_viento>Viento medio de 10 km/h procedente de S</descripcion_viento>
+        <haize_azterketa>Haize batezbesteko abiadura: 10 km/h eta S norabaitik dator</haize_azterketa>
     </dia>
     <dia fecha="2025-03-06">
         <temperatura_maxima>16</temperatura_maxima>
         <temperatura_minima>10</temperatura_minima>
         <estado_cielo>
-            <valor_media>31</valor_media>
-            <descripcion_media>Cubierto con lluvia</descripcion_media>
+            <balio_batezbestekoa>31</balio_batezbestekoa>
+            <deskribapena_batezbestekoa>Cubierto con lluvia</deskribapena_batezbestekoa>
         </estado_cielo>
-        <descripcion_viento>Viento medio de 19 km/h procedente de S</descripcion_viento>
+        <haize_azterketa>Haize batezbesteko abiadura: 19 km/h eta S norabaitik dator</haize_azterketa>
     </dia>
     <dia fecha="2025-03-07">
         <temperatura_maxima>16</temperatura_maxima>
         <temperatura_minima>11</temperatura_minima>
         <estado_cielo>
-            <valor_media>26</valor_media>
-            <descripcion_media>Cubierto con lluvia</descripcion_media>
+            <balio_batezbestekoa>26</balio_batezbestekoa>
+            <deskribapena_batezbestekoa>Cubierto con lluvia</deskribapena_batezbestekoa>
         </estado_cielo>
-        <descripcion_viento>Viento medio de 25 km/h procedente de S</descripcion_viento>
+        <haize_azterketa>Haize batezbesteko abiadura: 25 km/h eta S norabaitik dator</haize_azterketa>
     </dia>
     <dia fecha="2025-03-08">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>11</temperatura_minima>
         <estado_cielo>
-            <valor_media>26</valor_media>
-            <descripcion_media>Cubierto con lluvia</descripcion_media>
+            <balio_batezbestekoa>26</balio_batezbestekoa>
+            <deskribapena_batezbestekoa>Cubierto con lluvia</deskribapena_batezbestekoa>
         </estado_cielo>
-        <descripcion_viento>Viento medio de 30 km/h procedente de S</descripcion_viento>
+        <haize_azterketa>Haize batezbesteko abiadura: 30 km/h eta S norabaitik dator</haize_azterketa>
     </dia>
     <dia fecha="2025-03-09">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>7</temperatura_minima>
         <estado_cielo>
-            <valor_media>43</valor_media>
-            <descripcion_media>Intervalos nubosos con lluvia escasa</descripcion_media>
+            <balio_batezbestekoa>43</balio_batezbestekoa>
+            <deskribapena_batezbestekoa>Intervalos nubosos con lluvia escasa</deskribapena_batezbestekoa>
         </estado_cielo>
-        <descripcion_viento>Viento medio de 20 km/h procedente de S</descripcion_viento>
+        <haize_azterketa>Haize batezbesteko abiadura: 20 km/h eta S norabaitik dator</haize_azterketa>
     </dia>
     <dia fecha="2025-03-10">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>8</temperatura_minima>
         <estado_cielo>
-            <valor_media>43</valor_media>
-            <descripcion_media>Intervalos nubosos con lluvia escasa</descripcion_media>
+            <balio_batezbestekoa>43</balio_batezbestekoa>
+            <deskribapena_batezbestekoa>Intervalos nubosos con lluvia escasa</deskribapena_batezbestekoa>
         </estado_cielo>
-        <descripcion_viento>Viento medio de 20 km/h procedente de S</descripcion_viento>
+        <haize_azterketa>Haize batezbesteko abiadura: 20 km/h eta S norabaitik dator</haize_azterketa>
     </dia>
     <dia fecha="2025-03-11">
         <temperatura_maxima>15</temperatura_maxima>
         <temperatura_minima>9</temperatura_minima>
         <estado_cielo>
-            <valor_media>25</valor_media>
-            <descripcion_media>Muy nuboso con lluvia</descripcion_media>
+            <balio_batezbestekoa>25</balio_batezbestekoa>
+            <deskribapena_batezbestekoa>Muy nuboso con lluvia</deskribapena_batezbestekoa>
         </estado_cielo>
-        <descripcion_viento>Viento medio de 10 km/h procedente de O</descripcion_viento>
+        <haize_azterketa>Haize batezbesteko abiadura: 10 km/h eta O norabaitik dator</haize_azterketa>
     </dia>
 </prediccion>
