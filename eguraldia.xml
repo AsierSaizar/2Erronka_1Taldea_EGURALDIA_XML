@@ -3,50 +3,57 @@
     <dia fecha="2025-03-05">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>10</temperatura_minima>
-        <precipitacion>
-            <probabilidad>0</probabilidad>
-        </precipitacion>
+        <estado_cielo>
+            <valor_media>13</valor_media>
+            <descripcion_media>Poco nuboso</descripcion_media>
+        </estado_cielo>
     </dia>
     <dia fecha="2025-03-06">
         <temperatura_maxima>16</temperatura_maxima>
         <temperatura_minima>10</temperatura_minima>
-        <precipitacion>
-            <probabilidad>79</probabilidad>
-        </precipitacion>
+        <estado_cielo>
+            <valor_media>31</valor_media>
+            <descripcion_media>Cubierto con lluvia</descripcion_media>
+        </estado_cielo>
     </dia>
     <dia fecha="2025-03-07">
         <temperatura_maxima>16</temperatura_maxima>
         <temperatura_minima>11</temperatura_minima>
-        <precipitacion>
-            <probabilidad>98</probabilidad>
-        </precipitacion>
+        <estado_cielo>
+            <valor_media>26</valor_media>
+            <descripcion_media>Cubierto con lluvia</descripcion_media>
+        </estado_cielo>
     </dia>
     <dia fecha="2025-03-08">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>11</temperatura_minima>
-        <precipitacion>
-            <probabilidad>100</probabilidad>
-        </precipitacion>
+        <estado_cielo>
+            <valor_media>26</valor_media>
+            <descripcion_media>Cubierto con lluvia</descripcion_media>
+        </estado_cielo>
     </dia>
     <dia fecha="2025-03-09">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>7</temperatura_minima>
-        <precipitacion>
-            <probabilidad>70</probabilidad>
-        </precipitacion>
+        <estado_cielo>
+            <valor_media>43</valor_media>
+            <descripcion_media>Intervalos nubosos con lluvia escasa</descripcion_media>
+        </estado_cielo>
     </dia>
     <dia fecha="2025-03-10">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>8</temperatura_minima>
-        <precipitacion>
-            <probabilidad>90</probabilidad>
-        </precipitacion>
+        <estado_cielo>
+            <valor_media>43</valor_media>
+            <descripcion_media>Intervalos nubosos con lluvia escasa</descripcion_media>
+        </estado_cielo>
     </dia>
     <dia fecha="2025-03-11">
         <temperatura_maxima>15</temperatura_maxima>
         <temperatura_minima>9</temperatura_minima>
-        <precipitacion>
-            <probabilidad>100</probabilidad>
-        </precipitacion>
+        <estado_cielo>
+            <valor_media>25</valor_media>
+            <descripcion_media>Muy nuboso con lluvia</descripcion_media>
+        </estado_cielo>
     </dia>
 </prediccion>
