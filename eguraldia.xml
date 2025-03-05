@@ -1,66 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <prediccion>
-    <dia fecha="2025-03-05">
-        <temperatura_maxima>18</temperatura_maxima>
-        <temperatura_minima>10</temperatura_minima>
-        <estado_cielo>
+    <eguraldia data="2025-03-05">
+        <tenperatura_gorakoa>18</tenperatura_gorakoa>
+        <tenperatura_behekoa>10</tenperatura_behekoa>
+        <euri>
+            <euri_batezbestekoa>0</euri_batezbestekoa>
+        </euri>
+        <zeru_egoera>
             <balio_batezbestekoa>13</balio_batezbestekoa>
-            <deskribapena_batezbestekoa>Poco nuboso</deskribapena_batezbestekoa>
-        </estado_cielo>
+            <deskribapena>Gutxi hodeitsu</deskribapena>
+        </zeru_egoera>
         <haize_azterketa>Haize batezbesteko abiadura: 10 km/h eta S norabaitik dator</haize_azterketa>
-    </dia>
-    <dia fecha="2025-03-06">
-        <temperatura_maxima>16</temperatura_maxima>
-        <temperatura_minima>10</temperatura_minima>
-        <estado_cielo>
+    </eguraldia>
+    <eguraldia data="2025-03-06">
+        <tenperatura_gorakoa>16</tenperatura_gorakoa>
+        <tenperatura_behekoa>10</tenperatura_behekoa>
+        <euri>
+            <euri_batezbestekoa>79</euri_batezbestekoa>
+        </euri>
+        <zeru_egoera>
             <balio_batezbestekoa>31</balio_batezbestekoa>
-            <deskribapena_batezbestekoa>Cubierto con lluvia</deskribapena_batezbestekoa>
-        </estado_cielo>
+            <deskribapena>Euria estalituta</deskribapena>
+        </zeru_egoera>
         <haize_azterketa>Haize batezbesteko abiadura: 19 km/h eta S norabaitik dator</haize_azterketa>
-    </dia>
-    <dia fecha="2025-03-07">
-        <temperatura_maxima>16</temperatura_maxima>
-        <temperatura_minima>11</temperatura_minima>
-        <estado_cielo>
+    </eguraldia>
+    <eguraldia data="2025-03-07">
+        <tenperatura_gorakoa>16</tenperatura_gorakoa>
+        <tenperatura_behekoa>11</tenperatura_behekoa>
+        <euri>
+            <euri_batezbestekoa>98</euri_batezbestekoa>
+        </euri>
+        <zeru_egoera>
             <balio_batezbestekoa>26</balio_batezbestekoa>
-            <deskribapena_batezbestekoa>Cubierto con lluvia</deskribapena_batezbestekoa>
-        </estado_cielo>
+            <deskribapena>Euria estalituta</deskribapena>
+        </zeru_egoera>
         <haize_azterketa>Haize batezbesteko abiadura: 25 km/h eta S norabaitik dator</haize_azterketa>
-    </dia>
-    <dia fecha="2025-03-08">
-        <temperatura_maxima>18</temperatura_maxima>
-        <temperatura_minima>11</temperatura_minima>
-        <estado_cielo>
+    </eguraldia>
+    <eguraldia data="2025-03-08">
+        <tenperatura_gorakoa>18</tenperatura_gorakoa>
+        <tenperatura_behekoa>11</tenperatura_behekoa>
+        <euri>
+            <euri_batezbestekoa>100</euri_batezbestekoa>
+        </euri>
+        <zeru_egoera>
             <balio_batezbestekoa>26</balio_batezbestekoa>
-            <deskribapena_batezbestekoa>Cubierto con lluvia</deskribapena_batezbestekoa>
-        </estado_cielo>
+            <deskribapena>Euria estalituta</deskribapena>
+        </zeru_egoera>
         <haize_azterketa>Haize batezbesteko abiadura: 30 km/h eta S norabaitik dator</haize_azterketa>
-    </dia>
-    <dia fecha="2025-03-09">
-        <temperatura_maxima>18</temperatura_maxima>
-        <temperatura_minima>7</temperatura_minima>
-        <estado_cielo>
+    </eguraldia>
+    <eguraldia data="2025-03-09">
+        <tenperatura_gorakoa>18</tenperatura_gorakoa>
+        <tenperatura_behekoa>7</tenperatura_behekoa>
+        <euri>
+            <euri_batezbestekoa>70</euri_batezbestekoa>
+        </euri>
+        <zeru_egoera>
             <balio_batezbestekoa>43</balio_batezbestekoa>
-            <deskribapena_batezbestekoa>Intervalos nubosos con lluvia escasa</deskribapena_batezbestekoa>
-        </estado_cielo>
+            <deskribapena>Euria gutxi duten hodeitsu tarteak</deskribapena>
+        </zeru_egoera>
         <haize_azterketa>Haize batezbesteko abiadura: 20 km/h eta S norabaitik dator</haize_azterketa>
-    </dia>
-    <dia fecha="2025-03-10">
-        <temperatura_maxima>18</temperatura_maxima>
-        <temperatura_minima>8</temperatura_minima>
-        <estado_cielo>
+    </eguraldia>
+    <eguraldia data="2025-03-10">
+        <tenperatura_gorakoa>18</tenperatura_gorakoa>
+        <tenperatura_behekoa>8</tenperatura_behekoa>
+        <euri>
+            <euri_batezbestekoa>90</euri_batezbestekoa>
+        </euri>
+        <zeru_egoera>
             <balio_batezbestekoa>43</balio_batezbestekoa>
-            <deskribapena_batezbestekoa>Intervalos nubosos con lluvia escasa</deskribapena_batezbestekoa>
-        </estado_cielo>
+            <deskribapena>Euria gutxi duten hodeitsu tarteak</deskribapena>
+        </zeru_egoera>
         <haize_azterketa>Haize batezbesteko abiadura: 20 km/h eta S norabaitik dator</haize_azterketa>
-    </dia>
-    <dia fecha="2025-03-11">
-        <temperatura_maxima>15</temperatura_maxima>
-        <temperatura_minima>9</temperatura_minima>
-        <estado_cielo>
+    </eguraldia>
+    <eguraldia data="2025-03-11">
+        <tenperatura_gorakoa>15</tenperatura_gorakoa>
+        <tenperatura_behekoa>9</tenperatura_behekoa>
+        <euri>
+            <euri_batezbestekoa>100</euri_batezbestekoa>
+        </euri>
+        <zeru_egoera>
             <balio_batezbestekoa>25</balio_batezbestekoa>
-            <deskribapena_batezbestekoa>Muy nuboso con lluvia</deskribapena_batezbestekoa>
-        </estado_cielo>
+            <deskribapena>Muy nuboso con lluvia</deskribapena>
+        </zeru_egoera>
         <haize_azterketa>Haize batezbesteko abiadura: 10 km/h eta O norabaitik dator</haize_azterketa>
-    </dia>
+    </eguraldia>
 </prediccion>
