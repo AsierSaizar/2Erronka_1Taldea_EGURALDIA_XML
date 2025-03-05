@@ -4,62 +4,49 @@
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>10</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="12-24">0</probabilidad>
-            <probabilidad hora="06-12">0</probabilidad>
-            <probabilidad hora="12-18">0</probabilidad>
-            <probabilidad hora="18-24">0</probabilidad>
+            <probabilidad>0</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-06">
         <temperatura_maxima>16</temperatura_maxima>
         <temperatura_minima>10</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="00-24">100</probabilidad>
-            <probabilidad hora="00-12">100</probabilidad>
-            <probabilidad hora="12-24">90</probabilidad>
-            <probabilidad hora="00-06">25</probabilidad>
-            <probabilidad hora="06-12">100</probabilidad>
-            <probabilidad hora="12-18">45</probabilidad>
-            <probabilidad hora="18-24">90</probabilidad>
+            <probabilidad>79</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-07">
         <temperatura_maxima>16</temperatura_maxima>
         <temperatura_minima>11</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="00-24">100</probabilidad>
-            <probabilidad hora="00-12">100</probabilidad>
-            <probabilidad hora="12-24">95</probabilidad>
+            <probabilidad>98</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-08">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>11</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="00-24">100</probabilidad>
-            <probabilidad hora="00-12">100</probabilidad>
-            <probabilidad hora="12-24">100</probabilidad>
+            <probabilidad>100</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-09">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>7</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="No especificado">70</probabilidad>
+            <probabilidad>70</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-10">
         <temperatura_maxima>18</temperatura_maxima>
         <temperatura_minima>8</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="No especificado">90</probabilidad>
+            <probabilidad>90</probabilidad>
         </precipitacion>
     </dia>
     <dia fecha="2025-03-11">
         <temperatura_maxima>15</temperatura_maxima>
         <temperatura_minima>9</temperatura_minima>
         <precipitacion>
-            <probabilidad hora="No especificado">100</probabilidad>
+            <probabilidad>100</probabilidad>
         </precipitacion>
     </dia>
 </prediccion>
